@@ -484,7 +484,7 @@ body{
     width: 80px;
     height: 80px;
 }
-
+/*
 .lds-ring div {
     box-sizing: border-box;
     display: block;
@@ -543,7 +543,7 @@ body{
     clip-path: circle(0% at 100% 0%);
 
 }
-
+*/
 /* Media queries */
 
 @media (max-width:800px){
